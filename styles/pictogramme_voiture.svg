@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="512"
+     height="512"
+     viewBox="0 0 512 512"
+     role="img"
+     aria-label="Pictogramme voiture">
+
+  <title>Pictogramme voiture</title>
+
+  <!-- Fond bleu MB92 -->
+  <rect x="32" y="32" width="448" height="448" rx="56" fill="#006FA3"/>
+
+  <!-- Silhouette principale de la voiture -->
+  <path d="M132 285
+           L162 210
+           C170 190 186 178 208 178
+           H304
+           C326 178 342 190 350 210
+           L380 285
+           C398 292 410 308 410 330
+           V360
+           C410 374 398 386 384 386
+           H372
+           C366 408 346 424 322 424
+           C298 424 278 408 272 386
+           H240
+           C234 408 214 424 190 424
+           C166 424 146 408 140 386
+           H128
+           C114 386 102 374 102 360
+           V330
+           C102 308 114 292 132 285 Z"
+        fill="#FFFFFF"/>
+
+  <!-- Vitres -->
+  <path d="M184 214
+           C190 202 200 196 214 196
+           H248
+           V260
+           H158 Z"
+        fill="#006FA3"/>
+
+  <path d="M264 196
+           H298
+           C312 196 322 202 328 214
+           L354 260
+           H264 Z"
+        fill="#006FA3"/>
+
+  <!-- Séparation pare-brise -->
+  <rect x="252" y="196" width="8" height="64" rx="4" fill="#FFFFFF"/>
+
+  <!-- Roues -->
+  <circle cx="190" cy="386" r="34" fill="#006FA3"/>
+  <circle cx="190" cy="386" r="15" fill="#FFFFFF"/>
+
+  <circle cx="322" cy="386" r="34" fill="#006FA3"/>
+  <circle cx="322" cy="386" r="15" fill="#FFFFFF"/>
+
+  <!-- Feux simplifiés -->
+  <rect x="118" y="314" width="34" height="18" rx="8" fill="#006FA3"/>
+  <rect x="360" y="314" width="34" height="18" rx="8" fill="#006FA3"/>
+
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="512"
+     height="512"
+     viewBox="0 0 512 512"
+     role="img"
+     aria-label="Pictogramme vélo">
+
+  <title>Pictogramme vélo</title>
+
+  <!-- Fond bleu MB92 -->
+  <rect x="32" y="32" width="448" height="448" rx="56" fill="#006FA3"/>
+
+  <!-- Roue arrière -->
+  <circle cx="164" cy="338" r="70" fill="none" stroke="#FFFFFF" stroke-width="24"/>
+
+  <!-- Roue avant -->
+  <circle cx="348" cy="338" r="70" fill="none" stroke="#FFFFFF" stroke-width="24"/>
+
+  <!-- Cadre vélo -->
+  <path d="M164 338 L230 250 L286 338 Z"
+        fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M230 250 L318 250 L348 338"
+        fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M286 338 L348 338"
+        fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Selle -->
+  <path d="M206 218 H254"
+        stroke="#FFFFFF" stroke-width="22" stroke-linecap="round"/>
+  <path d="M230 250 L218 220"
+        stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+
+  <!-- Guidon -->
+  <path d="M318 250 L338 204"
+        stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M338 204 H384"
+        stroke="#FFFFFF" stroke-width="20" stroke-linecap="round"/>
+
+  <!-- Pédalier -->
+  <circle cx="286" cy="338" r="16" fill="#FFFFFF"/>
+  <path d="M286 338 L314 366"
+        stroke="#FFFFFF" stroke-width="14" stroke-linecap="round"/>
+  <path d="M286 338 L258 310"
+        stroke="#FFFFFF" stroke-width="14" stroke-linecap="round"/>
+
+</svg>
